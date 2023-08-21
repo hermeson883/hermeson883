@@ -12,7 +12,7 @@ I'm a **develop** who search for a new challenger in that developer world
 
 <br/>
 
-## 🔨 **What I now** 👨‍💻
+## 🔨 **What I know** 👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,html,css,nodejs,mysql,git)](https://skillicons.dev)
 
