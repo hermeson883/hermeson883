@@ -14,13 +14,13 @@ I'm a **develop** who search for a new challenger in that developer world
 
 ## 🔨 **What I know** 👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,react,html,css,nodejs,mysql,git,ruby,rails)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,react,html,css,nodejs,mysql,git,nextjs,prisma)](https://skillicons.dev)
 
 <br/>
 
 ## **What I'm looking for** 👀
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,redis,prisma,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 <br/>
 
