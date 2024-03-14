@@ -18,10 +18,6 @@ I'm a **develop** who search for a new challenger in that developer world
 
 <br/>
 
-## **What I'm looking for** 👀
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
-
 <br/>
 
 <div align="center">
