@@ -14,7 +14,7 @@ I'm a **develop** who search for a new challenger in that developer world
 
 ## 🔨 **What I know** 👨‍💻
 
-[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,react,html,css,nodejs,mysql,git,nextjs,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,react,html,css,nodejs,mysql,git,nextjs)](https://skillicons.dev)
 
 <br/>
 
