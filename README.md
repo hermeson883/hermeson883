@@ -2,12 +2,12 @@
 
 <br/>
 
-I'm a **develop** who search for a new challenger in that developer world 
+I'm a **developer** who search for new challengers in that cybernetic world 
 
 <br/>
 
-- My focus is in the Data Science area, but sometimes I fall in love with JS 😅
-- I work with python (numpy, statsmodels, plotly express, matplot and more)
+- My focus is in the Data Science area, but sometimes I fall in love with JS and other languages 😅
+- I work with python (pandas, numpy, statsmodels, plotly express, matplot and more)
 - For the js is Vite, express, React, Styled Components, Tailwind 
 
 <br/>
@@ -15,6 +15,10 @@ I'm a **develop** who search for a new challenger in that developer world
 ## 🔨 **What I know** 👨‍💻
 
 [![My Skills](https://skillicons.dev/icons?i=python,r,js,ts,react,html,css,nodejs,mysql,git,nextjs)](https://skillicons.dev)
+
+## 🔨 **What i have interesting** 👀
+
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,)](https://skillicons.dev)
 
 <br/>
 
