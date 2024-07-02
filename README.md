@@ -18,7 +18,7 @@ I'm a **developer** who search for new challengers in that cybernetic world
 
 ## 🔨 **What i have interesting** 👀
 
-[![My Skills](https://skillicons.dev/icons?i=php,laravel,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails)](https://skillicons.dev)
 
 <br/>
 
